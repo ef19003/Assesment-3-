@@ -1,0 +1,7 @@
+I was trying to answer the following question:
+Are there places where nets are distributed but not used?
+With this question in mind, I decide to use 4 plots that is 3 bar graphs and 1 scatterplot. 
+The variables that were in use are population of the country, country, Number of nets distributed and percentage in the countries that have access to nets. 
+The use of bar plots was to represent the information about the countries while the scatterplot helped in identifying the relationship between the 2 numeric variables (number of nets and percentage having access to nets).  
+From the plots we can see that there are places where nets were distributed but were not being used because the access to the people was low. 
+The graphs compare the top 15 highest population, the top 15 countries in Africa with high distributed nets and the top 15 countries on average that have access to nets, from this the comparison can help identify which areas did not have access while the nets distributed were high as compared to the population.
